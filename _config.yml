@@ -1,4 +1,4 @@
-##########
+rtment##########
 # collectionbuilder-gh
 # Jekyll Digital Collection Generator, designed for GitHub Pages
 # https://github.com/CollectionBuilder/collectionbuilder-gh
@@ -40,10 +40,9 @@ metadata: demo-metadata
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-# organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-# organization-link: https://cdil.lib.uidaho.edu/
-# organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-# organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+# organization-name: "Department of History, Indiana University Bloomington(IUB)"
+# organization-link: https://history.indiana.edu/graduate/index.html
+# organization-logo-banner: https://seeklogo.com/vector-logo/380342/indiana-university-bloomington
 
 ##########
 # ROBOTS EXCLUDE
